@@ -57,28 +57,54 @@ char
 my_char
 
 =
+
+
 ‘A’
+
 ;
+
 for
+
 (
+
+
 int
+
 i
+
 =
+
 0
+
 ;
+
 i
+
 <
+
 1024
+
 ;
+
 ++
+
 i
+
 )
+
 printf
+
 (
+
 “\”Hello\” she said.\n”
+
 )
+
 ;
+
 }
+
+
 
 
 
