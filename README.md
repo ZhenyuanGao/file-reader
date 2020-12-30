@@ -17,9 +17,10 @@ sample_cppProgram.cpp
 output:
 #
 include
-<
-stdio
 
+<
+
+stdio
 .
 
 h
